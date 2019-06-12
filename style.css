@@ -1,3 +1,9 @@
+
+
+.container-fluid{
+  font-size: 250%;
+}
+
 .container {
   position: relative;
   width: 50%;
